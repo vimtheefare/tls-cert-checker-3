@@ -9,3 +9,9 @@ This is a straightforward shell script that checks the expiration date of TLS ce
    ./check_cert_expiry.sh
    ```
 3. The script will output the expiry dates for each domain.
+
+## Requirements
+- `openssl` must be installed on your system.
+
+## License
+This project is open-source and available under the MIT License.
